@@ -1,4 +1,5 @@
 #!/bin/zsh
+source environment.sh
 
 if [ -z $ENV ];
 then
