@@ -1,5 +1,5 @@
 #!/bin/zsh
-source environment.sh
+
 source checkEnvironment.sh
 
 if [ -z $1 ];
